@@ -15,7 +15,7 @@
     . Created by doctor
     . Status
     . Can be either of: [Negative,
-     Travelled-Quarantine, Symptoms-Quarantine, Positive-Admit] from the qn documentation
+     Travelled-Quarantine, Symptoms-Quarantine, Positive-Admit] 
 
 
 ## Prerequisites
